@@ -1,0 +1,6 @@
+aws_region        = "ap-south-1"
+ami_id            = "ami-0f5ee92e2d63afc18"
+instance_type     = "t2.micro"
+key_name          = "terraform"
+subnet_id         = "subnet-0abc12345"
+security_group_id = "default"
